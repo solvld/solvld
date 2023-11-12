@@ -8,6 +8,8 @@
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=solvld)](https://git.io/streak-stats)
+
 ### For Connection
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solvld/)
