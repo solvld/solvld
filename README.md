@@ -14,8 +14,9 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solvld/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/solvld)
 ---
-![Codewars](https://github.r2v.ch/codewars?user=solvld&hide_clan=true&stroke=%23b362ff&theme=gradient_purple_dark)
+
 <!--
+![Codewars](https://github.r2v.ch/codewars?user=solvld&hide_clan=true&stroke=%23b362ff&theme=gradient_purple_dark)
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solvld&label=Profile%20views&color=0e75b6&style=flat" alt="solvld" /> </p>
 
