@@ -2,11 +2,15 @@
 <h3 align="center">I'm Frontend developer</h3>
 
 ### My Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass)](https://skillicons.dev)
+
+<!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=solvld&theme=dark&hide_border=true&border_radius=10&card_width=300&hide_total_contributions=true)](https://git.io/streak-stats)
 ### For Connection
