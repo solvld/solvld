@@ -19,7 +19,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/solvld)
 ---
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=solvld&layout=compact&theme=vision-friendly-dark)](https://github.com/solvld)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solvld&layout=compact&theme=vision-friendly-dark)
+
+
 <!--
 ![Codewars](https://github.r2v.ch/codewars?user=solvld&hide_clan=true&stroke=%23b362ff&theme=gradient_purple_dark)
 ---
