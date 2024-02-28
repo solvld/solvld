@@ -2,7 +2,7 @@
 <h3 align="center">I'm Frontend developer</h3>
 
 ### My Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass)](https://skillicons.dev)
 
 <!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
