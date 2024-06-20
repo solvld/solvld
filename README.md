@@ -4,6 +4,8 @@
 ### My Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css)](https://skillicons.dev)
 
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solvld&layout=compact&theme=vision-friendly-dark)
 <!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -19,7 +21,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/solvld)
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solvld&layout=compact&theme=vision-friendly-dark)
+
 
 
 <!--
